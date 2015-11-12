@@ -1,0 +1,13 @@
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\Background.png
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\AppManifest.xaml
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\PrestecUPF.xap
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\App.g.i.cs
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\XapCacheFile.xml
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\PrestecUPF.dll
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\Bin\Release\PrestecUPF.pdb
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\PrestecUPF.g.resources
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\PrestecUPF.dll
+D:\Visual Studio 2010\Projects\PrestecUPF\PrestecUPF\obj\Release\PrestecUPF.pdb
