@@ -1,0 +1,8 @@
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\Bin\Debug\ApplicationIcon.png
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\Bin\Debug\Background.png
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\App.g.i.cs
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\MainPage.g.i.cs
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\Prèstec de Portàtils UPF.g.resources
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\Prèstec de Portàtils UPF.dll
+D:\Visual Studio 2010\Projects\Prèstec de Portàtils UPF\Prèstec de Portàtils UPF\obj\Debug\Prèstec de Portàtils UPF.pdb
